@@ -6,6 +6,9 @@ test1
 
 -- This is a text of branch 1 demo ---
 
+-- This is an inserted line from branch 4 ---
+
+
 --- This is a change from branch 3 ---
 
 --- This is a change from branch 4 ---
