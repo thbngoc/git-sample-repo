@@ -2,4 +2,6 @@ E13A
 test
 test1
 
+--- This is a change from Branch2 ----
+
 -- This is a text of branch 1 demo ---
