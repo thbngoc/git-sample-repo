@@ -7,3 +7,5 @@ test1
 -- This is a text of branch 1 demo ---
 
 --- This is a change from branch 3 ---
+
+--- This is a change from branch 4 ---
