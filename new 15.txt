@@ -18,3 +18,5 @@ test1
 --- Change from 'login' branch ---
 
 --- Change from 'login 2' branch ---
+
+--- Change 3 ----
